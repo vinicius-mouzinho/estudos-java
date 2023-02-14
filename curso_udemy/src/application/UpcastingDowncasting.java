@@ -46,6 +46,9 @@ public class UpcastingDowncasting {
 			System.out.println("Update!");
 			
 		}
+		
+		System.out.println(acc1);
+		System.out.println(acc);
 
 	}
 
